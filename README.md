@@ -38,10 +38,10 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 # Screenshot of deployment
-
+<img src="./client/src/images/Screenshot 2023-08-23 at 11.59.48.jpeg" alt="image of deployed webiste"></img>
 
 # Link to deployed application
-
+https://vast-wildwood-32209-b4843041627f.herokuapp.com/
 
 # License
 N/A
